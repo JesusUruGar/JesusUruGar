@@ -1,6 +1,9 @@
 ![Banner_Perfil](github_banner.png)
 # Que tal, soy Jesús! 👋
+
 Soy un joven **Desarrollador Web** en formación, apasionado por la lógica y los programas bien estructurados.
+<br>
+Actualmente me encuentro estudiando en el centro *Ilerna Sevilla*.
 
 ### Tecnologías:
 1. Java
