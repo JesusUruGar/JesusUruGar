@@ -1,4 +1,15 @@
-### Hi there 👋
+![Banner_Perfil](github_banner.png)
+# Que tal, soy Jesús! 👋
+Soy un joven **Desarrollador Web** en formación, apasionado por la lógica y los programas bien estructurados.
+
+### Tecnologías:
+1. Java
+2. HTML5
+3. CSS
+4. JavaScript
+5. C++
+6. Python
+7. MySQL
 
 <!--
 **JesusUruGar/JesusUruGar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
