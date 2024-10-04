@@ -13,6 +13,7 @@ Actualmente me encuentro estudiando en el centro *Ilerna Sevilla*.
 5. C++
 6. Python
 7. MySQL
+8. PHP
 
 <!--
 **JesusUruGar/JesusUruGar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
