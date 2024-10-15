@@ -12,7 +12,7 @@ Actualmente me encuentro estudiando en el centro *Ilerna Sevilla*.
 4. JavaScript
 5. C++
 6. Python
-7. MySQL
+7. SQL
 8. PHP
 
 <!--
