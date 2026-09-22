@@ -1,4 +1,4 @@
-![Banner_Perfil](github_banner_3.png)
+![Banner_Perfil](github_banner_3.jpg)
 # Que tal, soy Jesús! 👋
 
 Soy un joven **Desarrollador Full Stack Junior**, apasionado por la lógica, el diseño y los programas bien estructurados.
