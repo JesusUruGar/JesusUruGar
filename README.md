@@ -3,17 +3,26 @@
 
 Soy un joven **Desarrollador Full Stack Junior**, apasionado por la lógica, el diseño y los programas bien estructurados.
 <br>
-Actualmente me encuentro estudiando en el centro *Ilerna Sevilla*.
+Actualmente estoy en búsqueda de empleo y continuando mi formación.
 
-### Tecnologías:
+### Lenguajes:
 1. Java
 2. HTML5
 3. CSS
 4. JavaScript
-5. C++
+5. PHP
 6. Python
 7. SQL
-8. PHP
+
+### Frameworks:
+1. Spring
+2. Laravel
+3. Astro
+4. React
+5. Express JS
+6. jQuery
+7. Tailwind CSS
+8. Bootstrap
 
 <!--
 **JesusUruGar/JesusUruGar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
